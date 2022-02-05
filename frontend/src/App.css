@@ -1,0 +1,23 @@
+
+
+
+.container{
+  width:60%;
+  background: #fff;
+  margin:10px auto;
+  min-height:100vh;
+  box-shadow: 0 0 5px 0 rgba(0,0,0,0.5);
+
+}
+
+.ql-toolbar.ql-snow{
+  display :flex;
+  justify-content: center;
+  position:sticky;
+  top:0;
+  z-index: 1;
+  background: #f3f3f3;
+  border:none;
+  box-shadow: 0 0 5px 0 rgba(0,0,0,0.5);
+
+}
